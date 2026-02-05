@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lorenzo.midipadidi",
+      "sha256_cert_fingerprints":
+        ["5B:8B:AE:AF:15:7A:CB:EE:F5:1C:F6:FF:68:9B:58:22:81:80:11:53:CB:43:95:F4:BE:D6:92:47:B7:20:EC:44"]
+    }
+  }
+]
