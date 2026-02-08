@@ -15,4 +15,13 @@
     "sha256_cert_fingerprints":
     ["5B:8B:AE:AF:15:7A:CB:EE:F5:1C:F6:FF:68:9B:58:22:81:80:11:53:CB:43:95:F4:BE:D6:92:47:B7:20:EC:44"]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.lorenzo.midipadidi",
+    "sha256_cert_fingerprints":
+    ["BD:10:98:0F:68:C8:AD:8C:F1:A5:C9:2E:02:04:4D:0B:6A:B6:08:24:42:2C:DC:FD:AC:FF:1F:49:FC:C1:BC:12"]
+  }
 }]
