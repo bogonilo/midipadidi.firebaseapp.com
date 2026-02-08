@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site":"midipadidi.firebaseapp.com",
     "public": "public",
     "ignore": [
       "firebase.json",
